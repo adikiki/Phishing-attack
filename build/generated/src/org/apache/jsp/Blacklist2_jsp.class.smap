@@ -1,0 +1,16 @@
+SMAP
+Blacklist2_jsp.java
+JSP
+*S JSP
+*F
++ 0 Blacklist2.jsp
+Blacklist2.jsp
+*L
+5,118:50
+124,21:170
+144,4:191
+148:195,3
+149,5:198
+154,4:204
+157,8:208
+*E
